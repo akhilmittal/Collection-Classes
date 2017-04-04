@@ -1,0 +1,6 @@
+D:\OneDrive\Articles\OOPS\Collection Classes\CollectionClassConcept\CollectionClassConcept\bin\Debug\CollectionClassConcept.exe.config
+D:\OneDrive\Articles\OOPS\Collection Classes\CollectionClassConcept\CollectionClassConcept\obj\Debug\CollectionClassConcept.csprojResolveAssemblyReference.cache
+D:\OneDrive\Articles\OOPS\Collection Classes\CollectionClassConcept\CollectionClassConcept\bin\Debug\CollectionClassConcept.exe
+D:\OneDrive\Articles\OOPS\Collection Classes\CollectionClassConcept\CollectionClassConcept\bin\Debug\CollectionClassConcept.pdb
+D:\OneDrive\Articles\OOPS\Collection Classes\CollectionClassConcept\CollectionClassConcept\obj\Debug\CollectionClassConcept.exe
+D:\OneDrive\Articles\OOPS\Collection Classes\CollectionClassConcept\CollectionClassConcept\obj\Debug\CollectionClassConcept.pdb
